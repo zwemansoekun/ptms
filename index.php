@@ -62,7 +62,7 @@ if(isset($_POST['login']))
     echo $msg;
   }  ?> </p>
                     <div class="login-form-head">
-                        <h4>Park Ticketing Management System</h4>
+                        <h4>Zwe Man Ticketing Management System</h4>
                         <p>Hello there, Sign in and start managing your Admin Template</p>
                     </div>
                     <div class="login-form-body">
